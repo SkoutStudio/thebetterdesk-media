@@ -190,5 +190,251 @@
    "Save this for the next time your brain feels like static."
   ],
   "caption": "Save this for your next scattered moment 🔄 #focusreset #adhd #focus #productivity #studywithme"
+ },
+ {
+  "id": 11,
+  "style": "test",
+  "label": "FOCUS TEST #1",
+  "cover": [
+   "Find the Q",
+   "in 10 seconds"
+  ],
+  "accent": "Q",
+  "grid": {
+   "base": "O",
+   "odd": "Q",
+   "rows": 11,
+   "cols": 8,
+   "pos": [
+    7,
+    5
+   ]
+  },
+  "lines": [
+   "Focus test. Somewhere in here there's one Q.",
+   "You have ten seconds. Go.",
+   {
+    "pause": 10,
+    "countdown": true
+   },
+   {
+    "t": "Here it is. Did you find it?",
+    "reveal": true
+   },
+   "Comment your time. Part two is harder. Follow so you don't miss it."
+  ],
+  "title": "Focus test: find the Q in 10 seconds",
+  "caption": "Focus test 🔍 Can you find the Q in 10 seconds? Comment your time 👇 Part 2 is harder. #focustest #focus #adhd #brainteaser #attentionspan",
+  "first_comment": "Part 2 drops Tuesday and it's way harder. Follow so you don't miss it 👀"
+ },
+ {
+  "id": 12,
+  "style": "dialogue",
+  "label": "ME vs MY BRAIN",
+  "cover": [
+   "Me vs my brain",
+   "at 2 PM"
+  ],
+  "accent": "brain",
+  "lines": [
+   {
+    "t": "Okay. One hour of real work. Let's go.",
+    "who": "me"
+   },
+   {
+    "t": "Sure. But first, let's check your phone. Real quick.",
+    "who": "brain"
+   },
+   {
+    "t": "No. I'm working.",
+    "who": "me"
+   },
+   {
+    "t": "What if someone texted you? It could be important.",
+    "who": "brain"
+   },
+   {
+    "t": "Nobody texted me.",
+    "who": "me"
+   },
+   {
+    "t": "Fine. Then let's reorganise your desk. And your whole life.",
+    "who": "brain"
+   },
+   {
+    "t": "Here's the trick. Phone in another room. Then I only promise two minutes.",
+    "who": "me"
+   },
+   {
+    "t": "Two minutes? Okay. That's nothing.",
+    "who": "brain"
+   },
+   {
+    "t": "Forty minutes later.",
+    "who": "narrator"
+   },
+   {
+    "t": "Send this to someone whose brain does the same thing.",
+    "who": "narrator"
+   }
+  ],
+  "title": "Me vs my brain at 2 PM",
+  "caption": "Every. Single. Afternoon 😩 The 2-minute trick: just promise your brain 2 minutes, starting is the hard part. Send this to someone whose brain does this. #adhd #procrastination #focus #relatable #productivity",
+  "first_comment": "The 2-minute start works because starting is the hard part, not continuing. Part 2 of me vs my brain soon, follow so you don't miss it 👀"
+ },
+ {
+  "id": 13,
+  "style": "notes",
+  "label": "NOTES",
+  "cover": [
+   "Things nobody",
+   "tells you about focus"
+  ],
+  "accent": "focus",
+  "heading": "things nobody tells you about focus",
+  "lines": [
+   "Things nobody tells you about focus.",
+   "Focus is not a personality trait. It's an environment.",
+   "Tired focus and bored focus need different fixes. Rest for one. A harder task for the other.",
+   "Starting is the hardest part. Once you start, it usually gets easier.",
+   "Your phone doesn't have to ring to steal your attention. It just has to be visible.",
+   "One finished task beats five started ones.",
+   "Save this for the next time you think you're lazy."
+  ],
+  "title": "Things nobody tells you about focus",
+  "caption": "Things nobody tells you about focus 📝 Which one hit hardest? Save this for the next time you think you're lazy. #howtofocus #focustips #adhd #productivity #studytips",
+  "first_comment": "Which one hit hardest? Comment the number 👇 Follow for more"
+ },
+ {
+  "id": 14,
+  "style": "quiz",
+  "label": "FOCUS QUIZ",
+  "cover": [
+   "3 questions.",
+   "Can you get",
+   "all 3 right?"
+  ],
+  "accent": "3",
+  "lines": [
+   "Focus quiz. Three questions. Keep score.",
+   {
+    "t": "Question one. Multitasking helps you get more done. True or false?",
+    "q": "Multitasking helps you get more done."
+   },
+   {
+    "pause": 3,
+    "countdown": true
+   },
+   {
+    "t": "False. Every switch costs you time and attention. Your brain is switching, not multitasking.",
+    "reveal": "FALSE"
+   },
+   {
+    "t": "Question two. After an interruption, getting back into deep focus can take over twenty minutes. True or false?",
+    "q": "Getting back into deep focus after an interruption can take 20+ minutes."
+   },
+   {
+    "pause": 3,
+    "countdown": true
+   },
+   {
+    "t": "True. Research on office workers found it often takes more than twenty minutes to get back on track.",
+    "reveal": "TRUE"
+   },
+   {
+    "t": "Question three. Your phone only distracts you when it rings. True or false?",
+    "q": "Your phone only distracts you when it buzzes."
+   },
+   {
+    "pause": 3,
+    "countdown": true
+   },
+   {
+    "t": "False. Studies suggest just having it in sight can pull at your attention.",
+    "reveal": "FALSE"
+   },
+   "How many did you get? Comment your score out of three."
+  ],
+  "title": "Focus quiz: can you get 3/3?",
+  "caption": "Focus quiz 🧠 How many did you get right? Comment your score /3 👇 #focusquiz #howtofocus #adhd #productivity #studytips",
+  "first_comment": "Be honest, what was your score? 👇 Follow for the next quiz"
+ },
+ {
+  "id": 15,
+  "style": "countdown",
+  "label": "RANKED",
+  "cover": [
+   "5 focus rules,",
+   "ranked"
+  ],
+  "accent": "ranked",
+  "lines": [
+   "Five focus rules from my system, ranked.",
+   {
+    "t": "Number five. Plan tomorrow tonight. Zero decisions in the morning.",
+    "rank": 5,
+    "rule": "Plan tomorrow tonight"
+   },
+   {
+    "t": "Number four. Three lists. Today, later, never. Only look at today.",
+    "rank": 4,
+    "rule": "Today / Later / Never"
+   },
+   {
+    "t": "Number three. Twenty-five minutes on, five off, twenty-five on.",
+    "rank": 3,
+    "rule": "25 / 5 / 25 blocks"
+   },
+   {
+    "t": "Number two. One sticky note. One task. Until it's done.",
+    "rank": 2,
+    "rule": "The one-sticky-note rule"
+   },
+   {
+    "t": "And number one. Phone in another room. Not face down. Another room.",
+    "rank": 1,
+    "rule": "Phone in another room"
+   },
+   "The full system is in The Focus Blueprint. Search The Focus Blueprint on Whop."
+  ],
+  "title": "5 focus rules, ranked",
+  "caption": "5 focus rules, ranked 🏆 Do you agree with #1? Save this. Full system: The Focus Blueprint (search it on Whop) #howtofocus #focustips #adhd #productivity #deepwork",
+  "first_comment": "The full step-by-step system is in The Focus Blueprint 👉 whop.com/johnny-digital/the-focus-blueprint-3d"
+ },
+ {
+  "id": 16,
+  "style": "test",
+  "label": "FOCUS TEST #2",
+  "cover": [
+   "Part 2: find",
+   "the 8 in 10 seconds"
+  ],
+  "accent": "8",
+  "grid": {
+   "base": "B",
+   "odd": "8",
+   "rows": 12,
+   "cols": 9,
+   "pos": [
+    3,
+    6
+   ]
+  },
+  "lines": [
+   "Focus test, part two. This one's harder.",
+   "There's one eight hiding between the B's. Ten seconds.",
+   {
+    "pause": 10,
+    "countdown": true
+   },
+   {
+    "t": "Right here. Got it?",
+    "reveal": true
+   },
+   "Focus is trainable. Daily drills are in The Focus Blueprint. Search it on Whop."
+  ],
+  "title": "Focus test part 2: find the 8",
+  "caption": "Focus test part 2 🔍 Harder than part 1. Did you find the 8? Comment your time 👇 Focus is trainable: The Focus Blueprint (search it on Whop) #focustest #brainteaser #attentionspan #adhd #focus",
+  "first_comment": "Want to train your focus every day? The Focus Blueprint 👉 whop.com/johnny-digital/the-focus-blueprint-3d"
  }
 ]
