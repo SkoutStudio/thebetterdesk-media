@@ -436,5 +436,216 @@
   "title": "Focus test part 2: find the 8",
   "caption": "Focus test part 2 🔍 Harder than part 1. Did you find the 8? Comment your time 👇 Focus is trainable: Search 'The Focus Blueprint' on Whop #focustest #brainteaser #attentionspan #adhd #focus",
   "first_comment": "Want to train your focus every day? The Focus Blueprint 👉 whop.com/johnny-digital/the-focus-blueprint-3d"
+ },
+ {
+  "id": 17,
+  "style": "test",
+  "label": "FOCUS TEST #3",
+  "cover": [
+   "Part 3: find",
+   "the N in 10 seconds"
+  ],
+  "accent": "N",
+  "grid": {
+   "base": "M",
+   "odd": "N",
+   "rows": 12,
+   "cols": 9,
+   "pos": [
+    9,
+    2
+   ]
+  },
+  "lines": [
+   "Focus test, part three. The hardest one yet.",
+   "There's one N hiding between the M's. Ten seconds.",
+   {
+    "pause": 10,
+    "countdown": true
+   },
+   {
+    "t": "Right here. Did you get it?",
+    "reveal": true
+   },
+   "Comment your time. Part four is the final boss. Follow so you don't miss it."
+  ],
+  "title": "Focus test part 3: find the N",
+  "caption": "Focus test part 3 🔍 The hardest one yet. Can you find the N in 10 seconds? Comment your time 👇 Follow for part 4. #focustest #brainteaser #attentionspan #adhd #howtofocus",
+  "first_comment": "Part 4 is the final boss. Follow so you don't miss it 👀"
+ },
+ {
+  "id": 18,
+  "style": "dialogue",
+  "label": "ME vs MY BRAIN",
+  "cover": [
+   "Me vs my brain",
+   "when I try to study"
+  ],
+  "accent": "study",
+  "lines": [
+   {
+    "t": "Okay. Time to study. Book's open.",
+    "who": "me"
+   },
+   {
+    "t": "Great. But your desk is messy. Clean it first.",
+    "who": "brain"
+   },
+   {
+    "t": "Fine. Desk is clean.",
+    "who": "me"
+   },
+   {
+    "t": "Now you need the perfect playlist.",
+    "who": "brain"
+   },
+   {
+    "t": "I have a playlist.",
+    "who": "me"
+   },
+   {
+    "t": "And a snack. And new pens. And a whole new study system.",
+    "who": "brain"
+   },
+   {
+    "t": "Nope. New rule. I write one bad sentence. Right now.",
+    "who": "me"
+   },
+   {
+    "t": "One sentence? Ugh. Fine.",
+    "who": "brain"
+   },
+   {
+    "t": "Starting messy beats waiting for perfect.",
+    "who": "narrator"
+   },
+   {
+    "t": "Send this to your study buddy.",
+    "who": "narrator"
+   }
+  ],
+  "title": "Me vs my brain when I try to study",
+  "caption": "Me vs my brain when I try to study 📚 The fix: write one bad sentence. Starting messy beats waiting for perfect. Send this to your study buddy. #studytips #stopprocrastinating #procrastination #adhd #relatable",
+  "first_comment": "Comment 1 if your brain does this too 👇 Follow for the next me vs my brain"
+ },
+ {
+  "id": 19,
+  "style": "notes",
+  "label": "NOTES",
+  "cover": [
+   "Can't focus?",
+   "Try ONE sticky note"
+  ],
+  "accent": "ONE",
+  "heading": "the one-sticky-note rule",
+  "lines": [
+   "The one-sticky-note rule.",
+   "Write one task on a sticky note. Not three. One.",
+   "Stick it on your screen, where you can't ignore it.",
+   "Work only on that task until it's done, or until your timer ends.",
+   "New idea pops up? Park it on a separate list, then come back.",
+   "Why it works: fewer options means fewer decisions, so starting gets easier.",
+   "It's one of the methods in The Focus Blueprint. Search The Focus Blueprint on Whop."
+  ],
+  "title": "The one-sticky-note rule",
+  "caption": "Can't focus? Try the one-sticky-note rule 📝 One task, on your screen, until it's done. Save this for tomorrow. Full system: Search 'The Focus Blueprint' on Whop #howtofocus #focustips #adhd #stopprocrastinating #productivity",
+  "first_comment": "The full step-by-step system is in The Focus Blueprint 👉 whop.com/johnny-digital/the-focus-blueprint-3d"
+ },
+ {
+  "id": 20,
+  "style": "quiz",
+  "label": "FOCUS QUIZ #2",
+  "cover": [
+   "Focus quiz part 2.",
+   "Can you get",
+   "3/3?"
+  ],
+  "accent": "3/3?",
+  "lines": [
+   "Focus quiz, part two. Three questions. Keep score.",
+   {
+    "t": "Question one. Humans now have a shorter attention span than a goldfish. True or false?",
+    "q": "Humans have a shorter attention span than a goldfish."
+   },
+   {
+    "pause": 3,
+    "countdown": true
+   },
+   {
+    "t": "False. That famous eight second stat has no solid research behind it.",
+    "reveal": "FALSE"
+   },
+   {
+    "t": "Question two. Making a plan for an unfinished task can stop it from nagging you. True or false?",
+    "q": "Planning an unfinished task can stop it nagging you."
+   },
+   {
+    "pause": 3,
+    "countdown": true
+   },
+   {
+    "t": "True. In one study, people who made a specific plan were less distracted by thoughts of that goal.",
+    "reveal": "TRUE"
+   },
+   {
+    "t": "Question three. Short breaks during a long task can help you stay sharp. True or false?",
+    "q": "Short breaks during a long task help you stay sharp."
+   },
+   {
+    "pause": 3,
+    "countdown": true
+   },
+   {
+    "t": "True. In one experiment, brief breaks helped people keep their focus on a long task.",
+    "reveal": "TRUE"
+   },
+   "How many did you get? Comment your score out of three."
+  ],
+  "title": "Focus quiz part 2: can you get 3/3?",
+  "caption": "Focus quiz part 2 🧠 Did you believe #1? Comment your score /3 👇 #focusquiz #howtofocus #attentionspan #adhd #studytips",
+  "first_comment": "Be honest, what was your score? 👇 Part 3 soon, follow so you don't miss it"
+ },
+ {
+  "id": 21,
+  "style": "countdown",
+  "label": "RANKED",
+  "cover": [
+   "Where your phone",
+   "should be while",
+   "you work, ranked"
+  ],
+  "accent": "ranked",
+  "lines": [
+   "Where your phone should be while you work, ranked.",
+   {
+    "t": "Number five. In your hand. Obviously.",
+    "rank": 5,
+    "rule": "In your hand"
+   },
+   {
+    "t": "Number four. Face up on the desk. Every light-up pulls you out.",
+    "rank": 4,
+    "rule": "Face up on the desk"
+   },
+   {
+    "t": "Number three. Face down. Better, but your brain still knows it's there.",
+    "rank": 3,
+    "rule": "Face down"
+   },
+   {
+    "t": "Number two. In a drawer, on silent. Out of sight.",
+    "rank": 2,
+    "rule": "In a drawer, on silent"
+   },
+   {
+    "t": "And number one. In another room. The extra steps give you time to change your mind.",
+    "rank": 1,
+    "rule": "In another room"
+   },
+   "It's rule one in The Focus Blueprint. Search The Focus Blueprint on Whop."
+  ],
+  "title": "Where your phone should be while you work, ranked",
+  "caption": "Where should your phone be while you work? Ranked 📱 Where's yours right now? Save this. Full system: Search 'The Focus Blueprint' on Whop #howtofocus #focustips #phoneaddiction #adhd #deepwork",
+  "first_comment": "Rule #1 and the rest of the system are in The Focus Blueprint 👉 whop.com/johnny-digital/the-focus-blueprint-3d"
  }
 ]
